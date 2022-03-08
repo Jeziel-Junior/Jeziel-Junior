@@ -4,7 +4,7 @@
 - 📚 Comecei a estudar programação em Janeiro de 2022 e desde então sou apaixonado por desenvolvimento Front-end
 - 📫 Contacte-me no email: jezieljunior29@hotmail.com
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Jeziel-Junior">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=jeziel-junior&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-junior&layout=compact&langs_count=7&theme=algolia"/>
 </div>
