@@ -3,8 +3,6 @@
 - 🌱 Estudando Javascript
 - 📚 Comecei a estudar programação em Janeiro de 2022 e desde então sou apaixonado por desenvolvimento Front-end
 - 📫 Contacte-me no email: jezieljunior29@hotmail.com
-
-<div>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=jeziel-junior&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -25,4 +23,5 @@
   <a href="https://www.linkedin.com/in/jeziel-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
       ![Snake animation](https://github.com/jeziel-junior/jeziel-junior/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
