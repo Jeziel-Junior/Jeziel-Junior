@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jeziel Junior 👋
 
 - 🌱 Estudando Javascript
-- 📚 Comecei a estudar programação em Janeiro de 2022 e desde então sou apaixonado por desenvolvimento Front-end
+- 📚 Comecei a estudar programação em Janeiro de 2022, desde então sou apaixonado por desenvolvimento Front-end
 - 📫 Contacte-me no email: jezieljunior29@hotmail.com
 <div align="center">
   <a href="https://github.com/Jeziel-Junior">
